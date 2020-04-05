@@ -8,14 +8,18 @@ Data were modeled using deep learning techniques, in particular, recurrent neura
 
 Two basic models were found, each with different combinations of hyperparameter values depending on the source of data. Finally, we found that recurrent neural networks outperform the baseline model by 41.3% (RSC) to 161.9% (AVM), increasing accuracies from 50.65% and 20.18% to 71.55% and 52.85%, respectively. The increase in accuracy of consumer behavioral predictions should consequently improve customer loyalty and thereby revenue, assuming increased quality in recommendations leads to better foundation for decision making while shopping 🤘
 
-Models were implemented using TensorFlow 1.7.
-
 ## Thesis
 ### Blog version
-https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22
+
+A shorter version of the thesis is available as [a blog](https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22) post.
 
 ### Full version
-The full version is found in this repository.
+The [full version](https://github.com/nrishoj/recsys-on-rnn/blob/master/recsys-on-rnn.pdf) is found in this repository.
+
+### Code
+The main model can be found as [a notebook](https://github.com/nrishoj/recsys-on-rnn/blob/master/notebook-model.ipynb) in this repository.
+
+Models were implemented using TensorFlow 1.7.
 
 ## Team
 - [Mathias Smedemark Kristiansen](https://www.linkedin.com/in/mathias-smedemark/)
