@@ -1,4 +1,4 @@
-# Recommender System on RNN
+# Predicting E-commerce Customer Behavior using Recurrent Neural Networks & Data Augmentation Techniques
 A recommender system for predicting online consumer behaviour based on RNN.
 
 With this article, we seek to describe how we’re able to improve today’s recommendation engines by applying a novel model-based approach using recurrent neural networks, a sub-class of artificial neural networks. The research was conducted using consumer behavioral session data from two large e-commerce webstores located in Europe, RSC and AVM — Find description below.
